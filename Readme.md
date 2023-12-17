@@ -31,6 +31,8 @@ Transactions are represented as dictionaries with the following keys:
 ```bash
 trans_1 = {"sender": "David", "amount": 0.008, "receiver": "Tris"}
 ```
+## Output
+![Output image](run.png)
 
 Feel free to customize and extend the code for your blockchain implementation.
 
